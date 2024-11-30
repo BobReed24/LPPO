@@ -1,6 +1,6 @@
-# LppoInterpreter
+# Lppo Interpreter
 
-LppoInterpreter is a custom interpreter for the LPPO programming language. This guide provides an overview of the language, its features, and how to use the interpreter. Note that window creation is currently in beta and still requires testing.
+Lppo Interpreter is a custom interpreter for the LPPO (Language of Processed Operations) programming language. This guide provides an overview of the language, its features, and how to use the interpreter. Note that window creation is currently in beta and still requires testing.
 
 ## Table of Contents
 
@@ -21,16 +21,16 @@ LppoInterpreter is a custom interpreter for the LPPO programming language. This 
 
 ## Introduction
 
-LppoInterpreter is designed to interpret scripts written in the LPPO programming language. The language supports basic arithmetic operations, function definitions, input/output handling, and window creation (in beta).
+Lppo Interpreter is designed to interpret scripts written in the LPPO programming language. The language supports basic arithmetic operations, function definitions, input/output handling, and window creation (in beta).
 
 ## Installation
 
-To use LppoInterpreter, you need to have Java installed on your system. You can download and install Java from [here](https://www.oracle.com/java/technologies/javase-downloads.html).
+To use Lppo Interpreter, you need to have Java installed on your system. You can download and install Java from [here](https://www.oracle.com/java/technologies/javase-downloads.html).
 
 Clone the repository and compile the Java files:
 
 ```sh
-git clone https://github.com/yourusername/LppoInterpreter.git
+git clone https://github.com/BobReed24/LPPO.git
 cd LppoInterpreter
 javac LppoInterpreter.java
 ```
