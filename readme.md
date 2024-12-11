@@ -1,6 +1,6 @@
 # Lppo Interpreter
 
-Lppo Interpreter is a custom interpreter for the LPPO (Language of Processed Operations) programming language. This guide provides an overview of the language, its features, and how to use the interpreter. Note that window creation is currently in beta and still requires testing.
+Lppo Interpreter is a custom interpreter for the LPPO (Language of Processed Operations) programming language. This guide provides an overview of the language, its features, and how to use the interpreter. Note that window creation is currently in alpha and still requires testing. LPPO is open source.
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ Lppo Interpreter is a custom interpreter for the LPPO (Language of Processed Ope
 
 ## Introduction
 
-Lppo Interpreter is designed to interpret scripts written in the LPPO programming language. The language supports basic arithmetic operations, function definitions, input/output handling, and window creation (in beta).
+Lppo Interpreter is designed to interpret scripts written in the LPPO programming language. The language supports basic arithmetic operations, function definitions, input/output handling, and window creation (in alpha).
 
 ## Installation
 
@@ -97,7 +97,7 @@ runner.terminal: "Hello, <<userName>>!";
 
 ### Window Creation
 
-Window creation is currently in beta and requires testing. Use the following commands to create and customize a window:
+Window creation is currently in alpha and requires testing. Use the following commands to create and customize a window:
 
 - `runner.window.size: width, height;` - Sets the window size.
 - `runner.window.title: "Title";` - Sets the window title.
