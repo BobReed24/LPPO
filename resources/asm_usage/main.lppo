@@ -23,3 +23,7 @@ public @ class (LPPO.index) {
                 write (.asm);
         }
 }
+
+stop_using "all_imports"
+
+endl;
